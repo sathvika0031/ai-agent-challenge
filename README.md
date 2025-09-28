@@ -1,8 +1,4 @@
-# pytest cache directory #
+https://drive.google.com/file/d/19giKeQVMkqWE5Ot8gcLEwwLPDW4gtaDw/view?usp=sharing 
 
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
 
-**Do not** commit this to version control.
 
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
